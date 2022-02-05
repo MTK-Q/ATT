@@ -1,7 +1,7 @@
 {
-  "name": "تليثون العرب",
-  "description": "تنصيب تليثون العرب الاصلي معرف قناتنا @iqthon",
-  "logo": "https://telegra.ph/file/277559574a1e241f5532e.jpg",
+  "name": "انتيثون العرب",
+  "description": "سورس تليثون انتيثون العرب @iqthon",
+  "logo": "",
   "keywords": [    "plugin",    "modular",    "productivity"  ],
   "repository": "https://github.com/Telethon-helper/Helper/",
   "website": "#TODO",
@@ -38,7 +38,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتـغيره! ",
-      "value": "ATN-AR",
+      "value": "ANT-AR",
       "required": false
     }
   },
